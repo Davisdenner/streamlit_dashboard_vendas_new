@@ -3,7 +3,7 @@
 
 <h2>💬Sobre</h2>
 <p>
-  [EM PRODUÇÃO] Dashboards de vendas a partir de dados de uma API.
+  [EM PRODUÇÃO] Dashboard de vendas a partir de dados de uma API.
 </p>
 
 ##  💻 Tecnologias
