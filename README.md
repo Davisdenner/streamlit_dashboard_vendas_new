@@ -2,7 +2,7 @@
 </h1>
 
 <h2>💬Sobre</h2>
-<p>Modelo de machine learning capaz de analisar e prever preços de carros utilizando regressão linear múltipla. O modelo conta com uma aplicação web para visualização e análise dos dados.
+<p>Dashboards de vendas a partir de dados de uma API..
 </p>
 
 ##  💻 Tecnologias
